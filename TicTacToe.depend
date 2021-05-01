@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605470376 source:c:\users\findl\documents\github\c\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
